@@ -1,0 +1,2 @@
+# Dataset of Project 5: Traffic
+You can download the complete dataset used for this project [here](https://cdn.cs50.net/ai/2020/x/projects/5/gtsrb.zip) or you can download a smaller version [here](https://cdn.cs50.net/ai/2020/x/projects/5/gtsrb-small.zip)
